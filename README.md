@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=200&section=header&text=JuandCaro&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Desarrollador%20de%20Software%20%7C%20Infraestructura%20y%20Sistemas&descAlignY=58&descSize=16" width="100%" alt="JuandCaro Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=200&section=header&text=Juan David Caro&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Desarrollador%20de%20Software%20%7C%20Infraestructura%20y%20Sistemas&descAlignY=58&descSize=16" width="100%" alt="Juan David Caro Banner" />
 </div>
 
 <p align="center">
